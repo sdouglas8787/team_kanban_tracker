@@ -12,6 +12,10 @@ No add-ins and no lookups to maintain. Change a task's status and its card moves
 ![Board](visuals/board.png)
 ![Tasks](visuals/tasks.png)
 
+The screenshots show my own working copy, which carries styling ahead of
+what `build_tracker.py` currently produces. The build gives you the full
+working tracker in the base layout; the workbook itself is not distributed.
+
 ## Get the workbook
 
 The finished workbook is not committed. Build it yourself in a few seconds:
