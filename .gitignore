@@ -1,0 +1,12 @@
+# virtual environment
+.venv/
+
+# python artefacts
+__pycache__/
+*.py[cod]
+
+# Excel lock files
+~$*
+
+# macOS
+.DS_Store
