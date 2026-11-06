@@ -8,9 +8,17 @@ No add-ins and no lookups to maintain. Change a task's status and its card moves
 
 ## Visuals
 
+*Team summary with its own reconciliation check: every task counted, and it says so.*
 ![Summary](visuals/summary.png)
+
+*The board: WIP limits per column, priority colours, filters.*
 ![Board](visuals/board.png)
+
+*The task list: the only sheet you type on.*
 ![Tasks](visuals/tasks.png)
+
+*Refresh explains exactly what it will and will not touch before it runs.*
+![Refresh](visuals/refresh.png)
 
 The screenshots show my own working copy, which carries styling ahead of
 what `build_tracker.py` currently produces. The build gives you the full
