@@ -6,6 +6,21 @@ No add-ins and no lookups to maintain. Change a task's status and its card moves
 
 ---
 
+## Visuals
+
+![Summary](visuals/summary.png)
+![Board](visuals/board.png)
+![Tasks](visuals/tasks.png)
+
+## Get the workbook
+
+The finished workbook is not committed. Build it yourself in a few seconds:
+
+```
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+.venv/bin/python build_tracker.py
+```
+
 ## What's in the workbook
 
 | Sheet | What it does |
