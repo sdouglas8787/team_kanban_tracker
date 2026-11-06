@@ -24,6 +24,36 @@ The screenshots show my own working copy, which carries styling ahead of
 what `build_tracker.py` currently produces. The build gives you the full
 working tracker in the base layout; the workbook itself is not distributed.
 
+## How I run it
+
+It is agile in the sense that matters: visible work, limited WIP, a pull
+system and a regular walk of the board. No ceremonies, no story points, no
+second tool to keep honest.
+
+**With a team.** The board is the meeting agenda. Walk it right to left:
+Done since last time, Review and who it is waiting on, In Progress against
+the WIP limits, then what gets pulled from To Do. Right to left matters -
+finishing beats starting. The WIP limits are per person and scale with the
+team size on Lists, so a red column header means someone is overloaded, not
+that the team is busy. Review is the handover discipline: nothing is Done
+until someone other than the owner says so. Between meetings, the Summary
+answers the walk-up questions - VIEW BY team member for load, and the
+"working on now" column - without interrupting anyone.
+
+**For projects.** Same list, same board: VIEW BY project, or filter the
+board to one project. A project is a filter, not a separate artefact, so
+there is never a team view and a project view that disagree - one list, one
+truth, nothing to reconcile. Backlog holds the project's unstarted scope.
+Due dates go only on tasks with real deadlines, so red text means genuinely
+late rather than theatre. A task that stalls goes to On Hold with a note;
+a task quietly dying in To Do is how plans rot.
+
+**The cadence.** Done cards leave the board after a set number of days, and
+the archive keeps every finished task with its ID and date - so "when did we
+finish that, and who did it" is a lookup, not a memory test. The Summary's
+own reconciliation line says whether every task is counted; if the board and
+the list ever disagreed, it would say so on screen.
+
 ## Get the workbook
 
 The finished workbook is not committed. Build it yourself in a few seconds:
